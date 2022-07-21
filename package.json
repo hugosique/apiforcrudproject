@@ -1,0 +1,23 @@
+{
+  "name": "apiforcrudproject",
+  "version": "1.0.0",
+  "description": "API JSON- Server for CRUD project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --wacth db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugosique/apiforcrudproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugosique/apiforcrudproject/issues"
+  },
+  "homepage": "https://github.com/hugosique/apiforcrudproject#readme",
+  "dependencies": {
+    "json-server": "^0.4.2"
+  }
+}
