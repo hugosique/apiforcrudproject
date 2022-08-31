@@ -4,7 +4,7 @@
   "description": "API JSON- Server for CRUD project.",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --wacth db.json --port 3000"
+    "start": "json-server db.json --port 3001"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/hugosique/apiforcrudproject#readme",
   "dependencies": {
     "json-server": "^0.4.2"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.9"
   }
 }

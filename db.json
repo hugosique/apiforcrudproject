@@ -1,11 +1,61 @@
 {
-    "products": [{
-        "id": 1,
-        "name": "Iphone 8",
-        "price": 1800.90
-    },{
-        "id": 2,
-        "name": "Fone de ouvido Philco",
-        "price": 129.75
-    }]
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 8",
+      "price": 1800.9,
+      "tags": [
+        "Iphone",
+        "Apple",
+        "Celular"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fone de ouvido Philco",
+      "price": 129.75,
+      "tags": [
+        "Fone",
+        "Música"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Notebook Samguns",
+      "price": 3.8,
+      "tags": [
+        "Eletrônicos"
+      ]
+    },
+    {
+      "name": "Seu pai",
+      "price": 2.5,
+      "id": 4
+    },
+    {
+      "name": "Teste",
+      "price": 2,
+      "description": 0,
+      "id": 5
+    },
+    {
+      "name": "set",
+      "price": 5,
+      "description": 0,
+      "id": 6
+    },
+    {
+      "name": "Celular",
+      "price": 850,
+      "description": "Ipgone Branco",
+      "id": 7
+    },
+    {
+      "name": "Teste",
+      "price": 123,
+      "description": "AAAA",
+      "id": 8
+    }
+  ],
+  "favicon.ico": []
 }
