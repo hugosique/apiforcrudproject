@@ -8,7 +8,8 @@
         "Iphone",
         "Apple",
         "Celular"
-      ]
+      ],
+      "description": "Iphone do chique e confortable"
     },
     {
       "id": 2,
@@ -55,6 +56,12 @@
       "price": 123,
       "description": "AAAA",
       "id": 8
+    },
+    {
+      "name": "Caneta azul",
+      "price": 2.5,
+      "description": "Caneta azul, azul caneta",
+      "id": 9
     }
   ],
   "favicon.ico": []
